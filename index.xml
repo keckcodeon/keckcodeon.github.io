@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on CodeOn! at Keck</title>
-    <link>/</link>
+    <link>https://keckcodeon.github.io/</link>
     <description>Recent content in Homepage on CodeOn! at Keck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://keckcodeon.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PIBBS Bootcamp: Data Viz and Plotting Biological Data</title>
-      <link>/2019/08/15/pibbs-bootcamp-data-viz-and-plotting-biological-data/</link>
+      <link>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-data-viz-and-plotting-biological-data/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/15/pibbs-bootcamp-data-viz-and-plotting-biological-data/</guid>
+      <guid>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-data-viz-and-plotting-biological-data/</guid>
       <description>
         
 
@@ -39,9 +39,9 @@ MCH 256
 9:00am-11:00am&lt;br /&gt;
 Monday 2019-08-12&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view Duc’s slides &lt;a href=&#34;/slides/JD-high-dimensional-data-analysis-RNA-seq/codeon-bootcamp-2019-08-12-JD.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view Duc’s slides &lt;a href=&#34;https://keckcodeon.github.io/slides/JD-high-dimensional-data-analysis-RNA-seq/codeon-bootcamp-2019-08-12-JD.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -51,10 +51,10 @@ Monday 2019-08-12&lt;/p&gt;
     
     <item>
       <title>PIBBS Bootcamp: Data Wrangling with the Tidyverse and Genomics</title>
-      <link>/2019/08/15/pibbs-bootcamp-data-wrangling-with-the-tidyverse-and-genomics/</link>
+      <link>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-data-wrangling-with-the-tidyverse-and-genomics/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/15/pibbs-bootcamp-data-wrangling-with-the-tidyverse-and-genomics/</guid>
+      <guid>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-data-wrangling-with-the-tidyverse-and-genomics/</guid>
       <description>
         
 
@@ -79,9 +79,9 @@ MCH 256
 9:00am-11:00am&lt;br /&gt;
 Wednesday 2019-08-08&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view Kevin’s slides &lt;a href=&#34;/slides/Kevin_genomics_case_study/Genomics_Data_Manipulation.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view Kevin’s slides &lt;a href=&#34;https://keckcodeon.github.io/slides/Kevin_genomics_case_study/Genomics_Data_Manipulation.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -91,10 +91,10 @@ Wednesday 2019-08-08&lt;/p&gt;
     
     <item>
       <title>PIBBS Bootcamp: High Dimensional Data and Machine Learning</title>
-      <link>/2019/08/15/pibbs-bootcamp-high-dimensional-data-and-machine-learning/</link>
+      <link>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-high-dimensional-data-and-machine-learning/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/15/pibbs-bootcamp-high-dimensional-data-and-machine-learning/</guid>
+      <guid>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-high-dimensional-data-and-machine-learning/</guid>
       <description>
         
 
@@ -119,9 +119,9 @@ MCH 256
 1:00pm-3:00pm&lt;br /&gt;
 Thursday 2019-08-15&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view Kevin’s slides &lt;a href=&#34;/slides/intro_scrnaseq_pt_2/scRNAseq_intro.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view Kevin’s slides &lt;a href=&#34;https://keckcodeon.github.io/slides/intro_scrnaseq_pt_2/scRNAseq_intro.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -131,10 +131,10 @@ Thursday 2019-08-15&lt;/p&gt;
     
     <item>
       <title>PIBBS Bootcamp: Intro to Programming and R</title>
-      <link>/2019/08/15/pibbs-bootcamp-intro-to-programming-and-r/</link>
+      <link>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-intro-to-programming-and-r/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/08/15/pibbs-bootcamp-intro-to-programming-and-r/</guid>
+      <guid>https://keckcodeon.github.io/2019/08/15/pibbs-bootcamp-intro-to-programming-and-r/</guid>
       <description>
         
 
@@ -159,9 +159,9 @@ MCH 256&lt;br /&gt;
 9:00am-11:00am -6:30&lt;br /&gt;
 Wednesday 2019-08-06&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view Kevin’s Intro to R slides &lt;a href=&#34;/slides/Kevin_R_for_beginners/R_for_beginners.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view Kevin’s Intro to R slides &lt;a href=&#34;https://keckcodeon.github.io/slides/Kevin_R_for_beginners/R_for_beginners.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -171,10 +171,10 @@ Wednesday 2019-08-06&lt;/p&gt;
     
     <item>
       <title>CodeOn! 2019-04-17: Intro to Single Cell Transcriptome Analysis pt. 2</title>
-      <link>/2019/04/15/intro-to-single-cell-pt-2/</link>
+      <link>https://keckcodeon.github.io/2019/04/15/intro-to-single-cell-pt-2/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/15/intro-to-single-cell-pt-2/</guid>
+      <guid>https://keckcodeon.github.io/2019/04/15/intro-to-single-cell-pt-2/</guid>
       <description>
         
 
@@ -199,9 +199,9 @@ NTT 4444&lt;br /&gt;
 5:30 -6:30&lt;br /&gt;
 Wednesday 04/17/2019&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view slides &lt;a href=&#34;/slides/intro_scrnaseq_pt_2/scRNAseq_intro.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view slides &lt;a href=&#34;https://keckcodeon.github.io/slides/intro_scrnaseq_pt_2/scRNAseq_intro.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -211,10 +211,10 @@ Wednesday 04/17/2019&lt;/p&gt;
     
     <item>
       <title>CodeOn! 2019-04-10: Introduction to Single Cell Transcriptome Analysis</title>
-      <link>/2019/04/08/introduction-to-single-cell-transcriptome-analysis/</link>
+      <link>https://keckcodeon.github.io/2019/04/08/introduction-to-single-cell-transcriptome-analysis/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/08/introduction-to-single-cell-transcriptome-analysis/</guid>
+      <guid>https://keckcodeon.github.io/2019/04/08/introduction-to-single-cell-transcriptome-analysis/</guid>
       <description>
         
 
@@ -240,7 +240,7 @@ NTT 4444&lt;br /&gt;
 Wednesday 04/10/2019&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -250,10 +250,10 @@ Wednesday 04/10/2019&lt;/p&gt;
     
     <item>
       <title>CodeOn! 2019-03-20: plotting and visualization with ggplot2</title>
-      <link>/2019/03/18/plotting-and-visualization-with-ggplot2/</link>
+      <link>https://keckcodeon.github.io/2019/03/18/plotting-and-visualization-with-ggplot2/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/18/plotting-and-visualization-with-ggplot2/</guid>
+      <guid>https://keckcodeon.github.io/2019/03/18/plotting-and-visualization-with-ggplot2/</guid>
       <description>
         
 
@@ -278,9 +278,9 @@ NTT 4444&lt;br /&gt;
 5:30 -6:30&lt;br /&gt;
 Wednesday 03/20/2019&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view slides &lt;a href=&#34;/slides/intro_ggplot2/advanced_ggplot2.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view slides &lt;a href=&#34;https://keckcodeon.github.io/slides/intro_ggplot2/advanced_ggplot2.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -290,10 +290,10 @@ Wednesday 03/20/2019&lt;/p&gt;
     
     <item>
       <title>CodeOn! 2019-03-06: Data wrangling and visualization with dplyr and ggplot2</title>
-      <link>/2019/02/28/codeon-2019-03-06-data-wrangling-and-visualization-with-dplyr-and-ggplot2/</link>
+      <link>https://keckcodeon.github.io/2019/02/28/codeon-2019-03-06-data-wrangling-and-visualization-with-dplyr-and-ggplot2/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/02/28/codeon-2019-03-06-data-wrangling-and-visualization-with-dplyr-and-ggplot2/</guid>
+      <guid>https://keckcodeon.github.io/2019/02/28/codeon-2019-03-06-data-wrangling-and-visualization-with-dplyr-and-ggplot2/</guid>
       <description>
         
 
@@ -318,9 +318,9 @@ NTT 4444&lt;br /&gt;
 5:30 -6:30&lt;br /&gt;
 Wednesday 03/06/2019&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can view slides for &lt;a href=&#34;/slides/intro_tidyverse2/R1/intro_to_dplyr.html&#34; target=&#34;_blank&#34;&gt;dplyr&lt;/a&gt; and &lt;a href=&#34;/slides/intro_tidyverse2/R1/intro_to_ggplot2.html&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can view slides for &lt;a href=&#34;https://keckcodeon.github.io/slides/intro_tidyverse2/R1/intro_to_dplyr.html&#34; target=&#34;_blank&#34;&gt;dplyr&lt;/a&gt; and &lt;a href=&#34;https://keckcodeon.github.io/slides/intro_tidyverse2/R1/intro_to_ggplot2.html&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -330,10 +330,10 @@ Wednesday 03/06/2019&lt;/p&gt;
     
     <item>
       <title>CodeOn! 02/13/2019: Dataframes, data importing, and intro to the dplyr package</title>
-      <link>/2019/02/11/dataframes-data-importing-and-dplyr/</link>
+      <link>https://keckcodeon.github.io/2019/02/11/dataframes-data-importing-and-dplyr/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/02/11/dataframes-data-importing-and-dplyr/</guid>
+      <guid>https://keckcodeon.github.io/2019/02/11/dataframes-data-importing-and-dplyr/</guid>
       <description>
         
 
@@ -359,7 +359,7 @@ NTT 4444&lt;br /&gt;
 Wednesday 02/13/2019&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -369,15 +369,15 @@ Wednesday 02/13/2019&lt;/p&gt;
     
     <item>
       <title>CodeOn! 01/30/2019: R and Rstudio</title>
-      <link>/2019/01/24/r-and-rstudio/</link>
+      <link>https://keckcodeon.github.io/2019/01/24/r-and-rstudio/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/24/r-and-rstudio/</guid>
+      <guid>https://keckcodeon.github.io/2019/01/24/r-and-rstudio/</guid>
       <description>
         
 
 
-&lt;p&gt;&lt;img src=&#34;/images/code_on_header.png&#34; width=&#34;700px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_header.png&#34; width=&#34;700px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;div id=&#34;are-you-a-biologist-with-big-data&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Are you a biologist with &lt;strong&gt;BIG&lt;/strong&gt; data?&lt;/h1&gt;
 &lt;/div&gt;
@@ -399,7 +399,7 @@ NTT 4444&lt;br /&gt;
 Wednesday 1/30/2019&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Can’t make it and want to get added to the mailing list for future sessions? email &lt;a href=&#34;mailto:keckcodeon@gmail.com&#34; class=&#34;email&#34;&gt;keckcodeon@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; width=&#34;400px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -409,10 +409,10 @@ Wednesday 1/30/2019&lt;/p&gt;
     
     <item>
       <title>Introduction to the R Programming Language</title>
-      <link>/2019/01/14/intro-to-r/</link>
+      <link>https://keckcodeon.github.io/2019/01/14/intro-to-r/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/14/intro-to-r/</guid>
+      <guid>https://keckcodeon.github.io/2019/01/14/intro-to-r/</guid>
       <description>
         
 
@@ -433,7 +433,7 @@ NTT 4444&lt;br /&gt;
 Wednesday 1/16&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://keckcodeon.github.io&#34;&gt;CodeOn! Homepage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/code_on_wheel.png&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/code_on_wheel.png&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
         
@@ -442,10 +442,10 @@ Wednesday 1/16&lt;/p&gt;
     
     <item>
       <title>Review of Python Data Structures</title>
-      <link>/2018/10/10/review-of-python-data-structures/</link>
+      <link>https://keckcodeon.github.io/2018/10/10/review-of-python-data-structures/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/10/10/review-of-python-data-structures/</guid>
+      <guid>https://keckcodeon.github.io/2018/10/10/review-of-python-data-structures/</guid>
       <description>
         
 
@@ -464,10 +464,10 @@ Wednesday 1/16&lt;/p&gt;
     
     <item>
       <title>Pandas for Data Analysis</title>
-      <link>/2018/10/03/pandas-for-data-analysis/</link>
+      <link>https://keckcodeon.github.io/2018/10/03/pandas-for-data-analysis/</link>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/10/03/pandas-for-data-analysis/</guid>
+      <guid>https://keckcodeon.github.io/2018/10/03/pandas-for-data-analysis/</guid>
       <description>
         
 
@@ -486,10 +486,10 @@ Wednesday 1/16&lt;/p&gt;
     
     <item>
       <title>Using Loops In Python</title>
-      <link>/2018/09/19/using-loops-in-python/</link>
+      <link>https://keckcodeon.github.io/2018/09/19/using-loops-in-python/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/19/using-loops-in-python/</guid>
+      <guid>https://keckcodeon.github.io/2018/09/19/using-loops-in-python/</guid>
       <description>
         
 
@@ -508,10 +508,10 @@ Wednesday 1/16&lt;/p&gt;
     
     <item>
       <title>variables in python</title>
-      <link>/2018/09/12/variables-in-python/</link>
+      <link>https://keckcodeon.github.io/2018/09/12/variables-in-python/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/09/12/variables-in-python/</guid>
+      <guid>https://keckcodeon.github.io/2018/09/12/variables-in-python/</guid>
       <description>
         
 
@@ -531,10 +531,10 @@ Wednesday 1/16&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://keckcodeon.github.io/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://keckcodeon.github.io/about/</guid>
       <description>
         &lt;p&gt;Need to cross the computational bridge for projects?
 Need to know coding for a job position?
@@ -550,13 +550,101 @@ Come and join CodeOn! to improve your coding&lt;/p&gt;
     </item>
     
     <item>
-      <title>Session Materials</title>
-      <link>/session_materials/</link>
+      <title>People</title>
+      <link>https://keckcodeon.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/session_materials/</guid>
+      <guid>https://keckcodeon.github.io/people/</guid>
+      <description>
+        &lt;style&gt;
+.image-wrapper {
+  box-sizing:border-box;
+  float: left;
+  margin-bottom:5px;
+  width: 50%;
+}
+
+.image-wrapper:nth-child(even)
+{
+  padding-left:5px;
+}
+
+.image-wrapper:nth-child(odd)
+{
+  padding-right:5px;
+}
+
+.image-wrapper &gt; img {
+  width: 100%;
+}
+
+.image-wrapper &gt; span {
+  display: inline-block;
+  width: 100%;
+}  
+&lt;/style&gt;
+
+
+&lt;div id=&#34;libere-ndacayisaba&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Libere Ndacayisaba&lt;/h3&gt;
+&lt;h4&gt;President&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/lndacayisaba.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;connor-hurd&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Connor Hurd&lt;/h3&gt;
+&lt;h4&gt;Vice President&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/churd.png&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;silvia-cervantes-cortes&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Silvia Cervantes Cortes&lt;/h3&gt;
+&lt;h4&gt;Senior Advisor&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/scervantes.png&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;jon-duc-nguyen&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Jon Duc Nguyen&lt;/h3&gt;
+&lt;h4&gt;Lecturer&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/dnguyen.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ted-kuo-chang-tseng&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Ted Kuo-Chang Tseng&lt;/h3&gt;
+&lt;h4&gt;Lecturer&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/ktseng.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;michelle-shu-ting-hung&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Michelle Shu-Ting Hung&lt;/h3&gt;
+&lt;h4&gt;Secretary&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/shung.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;satish-kumar-ghanesan&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Satish Kumar Ghanesan&lt;/h3&gt;
+&lt;h4&gt;Treasurer&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/sghanesan.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;veronica-ortiz&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Veronica Ortiz&lt;/h3&gt;
+&lt;h4&gt;Public Relations&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/vortiz.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;kevin-stachelek&#34; class=&#34;image-wrapper&#34;&gt;
+&lt;h3&gt;Kevin Stachelek&lt;/h3&gt;
+&lt;h4&gt;Lecturer&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://keckcodeon.github.io/images/eboard_pics/kstachelek.jpg&#34; width=&#34;50%&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Session Materials</title>
+      <link>https://keckcodeon.github.io/session_materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keckcodeon.github.io/session_materials/</guid>
       <description>
         &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=1WlMEiDHNArTJQTObxxTEiMY7g5M9Caxd&#34;&gt;Summer 2019- PIBBS Bootcamp&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1GDdAGOLjfhXdhlcxhLw64CM5CkitSIfN?usp=sharing&#34;&gt;Spring 2019&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=1J_vPhkOEe2mOa1S6z7So5eTElvNhVa4f&#34;&gt;Fall 2018&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
